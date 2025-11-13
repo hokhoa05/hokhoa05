@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/khoahonguyendang/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" /></a>
 </p>
 
----
 
 ## 👤 Who am I?
 
@@ -17,7 +16,7 @@
 - 💡 I’m interested in Software Engineering.
 - 🌱 I enjoy learning around System Design and DSA.
 - 💬 Outside of tech, I like coffees.
----
+
 
 ## 🚀 What am I currently working on?
 
@@ -26,7 +25,7 @@
 
 - 🛠 **Project:** `Secret project`
   → Tech: **Typescript (NextJS), PostgreSQL (Neon), Docker, AWS**  
----
+
 
 ## 🧰 What tools do I use?
 
@@ -36,7 +35,7 @@
 ### 🛠 Dev Tools & Workflow
 `Git` • `GitHub` • `Docker`
 
----
+
 
 ## 📫 How to reach me?
 
