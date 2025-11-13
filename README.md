@@ -43,16 +43,6 @@
 - 📊 Codeforces: **[KaJo](https://codeforces.com/profile/KaJo)**
 - 💼 LinkedIn: **[khoahonguyendang](https://www.linkedin.com/in/khoahonguyendang/)**
 
----
-
-## 📊 GitHub at a glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hokhoa05&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <i>Thanks for visiting! If you think I might be a good fit for your team, let’s talk</i><br/>
 </p>
