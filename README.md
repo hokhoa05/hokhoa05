@@ -39,8 +39,8 @@
 
 ## 📫 How to reach me?
 
-- 📊 Codeforces: **[KaJo](https://codeforces.com/profile/KaJo)**
 - 💼 LinkedIn: **[khoahonguyendang](https://www.linkedin.com/in/khoahonguyendang/)**
+- 📊 Codeforces: **[KaJo](https://codeforces.com/profile/KaJo)**
 
 <p align="center">
   <i>Thanks for visiting! If you think I might be a good fit for your team, let’s talk</i><br/>
